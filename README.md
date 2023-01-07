@@ -35,6 +35,16 @@
   </div>
   
   ---
+  ## How to reach me
+
+<p align="center">
+	<a href="mailto:mahamedibra3232@gmail.com" target = "_blank"><img img src="https://github.com/timche/gmail-desktop/blob/main/media/icon.svg" alt="Gmail" title="gmail" width="50px"/></a>
+	<a href="https://github.com/mohamedibrahim3" target = "_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" title="github" width="50px"/></a>
+	<a href="https://www.linkedin.com/in/mohamedibrahimabdelalim/" target = "_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50px" title="linkedin"/></a>
+	<a href="https://www.facebook.com/MohamedIbrahim32" target = "_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-plain.svg" alt="Facebook" title="facebook" width="50px"/></a>
+    
+    
+</p>
   
   ### :fire: My Stats :
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mohamedibrahim3&theme=dark&hide_border=true)](https://git.io/streak-stats)
