@@ -18,7 +18,7 @@
 - I'm a junior **Computer Science** student at Suez Canal University.
 - I’m currently learning **Computer Science** and **Software Engineering**.
 - I enjoy **Problem Solving** and **Competitive Programming**.
-- I'm into Data Structures & Algorithms.
+- I'm into **Data Structures** and **Algorithms**.
 <hr> 
   
   
