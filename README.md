@@ -2,7 +2,7 @@
     Hi , I'm Mohamed Ibrahim
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
      <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=your-github-mohamedibrahim3-lt&style=flat-square&color=blue" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=your-github-mohamedibrahim3-lt&style=flat-square&color=orange" alt=""/>
   </div>
   </h1>
   <p align="center">
@@ -21,7 +21,7 @@
 <hr> 
   
   
-  ### :hammer_and_wrench: Languages and Tools :
+  ### Languages and Tools
   <div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cplusplus" alt="Cplusplus" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
@@ -46,5 +46,9 @@
     
 </p>
   
-  ### :fire: My Stats :
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mohamedibrahim3&theme=dark&hide_border=true)](https://git.io/streak-stats)
+  ### My Stats
+  <p align="center">
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedibrahim3&theme=react" alt="streak"/> <br>
+	<a href="https://github.com/mohamedibrahim3">
+</a> 
+</p>
