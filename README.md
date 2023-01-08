@@ -1,5 +1,5 @@
 <h1 align="center">
-    Hi , I'm Mohamed Ibrahim
+    Hi, I'm Mohamed Ibrahim
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
      <div align="center">
     <img src="https://komarev.com/ghpvc/?username=your-github-mohamedibrahim3-lt&style=flat-square&color=orange" alt=""/>
