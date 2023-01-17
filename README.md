@@ -53,3 +53,7 @@
 	<a href="https://github.com/mohamedibrahim3">
 </a> 
 </p>
+<div align="center">
+  <i>"EVERYTHING YOU NEED
+	NOTHING YOU DON'T"</i>
+</div>
