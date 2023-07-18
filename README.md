@@ -15,7 +15,7 @@
 
 ## About me
 
-- I'm a senior **Computer Science** student at **Suez Canal University**.
+- I'm a Fresh Graduate from the **Faculty of Computers & Informatics** at **Suez Canal University**.
 - I’m currently learning **Computer Science** and **Software Engineering**.
 - I enjoy **Problem Solving** and **Competitive Programming**.
 - I'm into **Data Structures** and **Algorithms**.
