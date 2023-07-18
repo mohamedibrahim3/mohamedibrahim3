@@ -15,10 +15,9 @@
 
 ## About me
 
-- I'm a Fresh Graduate from the **Faculty of Computers & Informatics** at **Suez Canal University**.
+- I'm a fresh graduate from the **Faculty of Computers & Informatics** at **Suez Canal University**.
 - I’m currently learning **Computer Science** and **Software Engineering**.
 - I enjoy **Problem Solving** and **Competitive Programming**.
-- I'm into **Data Structures** and **Algorithms**.
 - For more information about me <a href="https://drive.google.com/file/d/185VL3Ml-Pf0trCgzPDSyex-sikAJ3SMR/view?usp=sharing">Resume</a></p>
 <hr> 
   
