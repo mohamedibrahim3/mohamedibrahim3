@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Mohamed Ibrahim
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Software+Engineer+%F0%9F%92%BB;Mobile+Application+Developer+%F0%9F%93%B1;Problem+Solving+Enthusiast+%F0%9F%A7%A9;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Software+Engineer+%F0%9F%92%BB;Android+Developer+%F0%9F%93%B1;Problem+Solving+Enthusiast+%F0%9F%A7%A9;" alt="Typing SVG" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamedibrahimabdelalim/">
@@ -32,8 +32,7 @@ const Mohamed = {
     location: "Egypt 🇪🇬",
     education: "Faculty of Computers & Informatics - Suez Canal University",
     currentFocus: ["Software Engineering", "Mobile Development", "Problem Solving"],
-    interests: ["Competitive Programming", "Android Development", "Clean Code"],
-    funFact: "Everything you need, nothing you don't! ✨"
+    interests: ["Competitive Programming", "Android Development", "Clean Code"]
 };
 ```
 
@@ -57,9 +56,13 @@ const Mohamed = {
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 📱 Mobile Development
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/>
+  <img src="https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="KMP"/>
+  <img src="https://img.shields.io/badge/Compose_Multiplatform-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Compose Multiplatform"/>
+</p>
 
 ### 🛠️ Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
