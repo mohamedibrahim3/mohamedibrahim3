@@ -1,57 +1,159 @@
-<h1 align="center">
-    Hi, I'm Mohamed Ibrahim
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-     <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=your-github-mohamedibrahim3-lt&style=flat-square&color=orange" alt=""/>
-  </div>
-  </h1>
-  <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&size=27&color=F75D0E&center=true&vCenter=true&width=500&height=100&lines=Software+Engineer;Mobile+Application+Developer">
-    </a>
-    
-  
-  <hr>
+<div align="center">
 
-## About me
+# 👋 Hi, I'm Mohamed Ibrahim
 
-- I'm a fresh graduate from the **Faculty of Computers & Informatics** at **Suez Canal University**.
-- I’m currently learning **Computer Science** and **Software Engineering**.
-- I enjoy **Problem Solving** and **Competitive Programming**.
-<hr> 
-  
-  
-  ### Languages and Tools
-  <div align="center">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cplusplus" alt="Cplusplus" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" title="Android" alt="Android-Studio" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  </div>
-  
-  ---
-  ## How to reach me
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Software+Engineer+%F0%9F%92%BB;Mobile+Application+Developer+%F0%9F%93%B1;Problem+Solving+Enthusiast+%F0%9F%A7%A9;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 
 <p align="center">
-	<a href="mailto:itsmohamedabdelalim@gmail.com" target = "_blank"><img img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" alt="Gmail" title="gmail" width="50px"/></a>
-	<a href="https://www.instagram.com/mohamedebnibrahim/" target = "_blank"><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" alt="Instagram" title="Instagram" width="50px"/></a>
-	<a href="https://www.linkedin.com/in/mohamedibrahimabdelalim/" target = "_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50px" title="linkedin"/></a>
-	<a href="https://www.facebook.com/MohamedIbrahim32" target = "_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-plain.svg" alt="Facebook" title="facebook" width="50px"/></a>
-    
-    
+  <a href="https://www.linkedin.com/in/mohamedibrahimabdelalim/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:itsmohamedabdelalim@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.instagram.com/mohamedebnibrahim/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.facebook.com/MohamedIbrahim32">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
 </p>
-  
-  ### My Stats
-  <p align="center">
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedibrahim3&theme=react" alt="streak"/> <br>
-	<a href="https://github.com/mohamedibrahim3">
-</a> 
-</p>
+
+<img src="https://komarev.com/ghpvc/?username=mohamedibrahim3&style=for-the-badge&color=blue&label=Profile+Views" alt="Profile Views"/>
+
+</div>
+
+---
+
+## 🚀 About Me
+
+```typescript
+const Mohamed = {
+    location: "Egypt 🇪🇬",
+    education: "Faculty of Computers & Informatics - Suez Canal University",
+    currentFocus: ["Software Engineering", "Mobile Development", "Problem Solving"],
+    interests: ["Competitive Programming", "Android Development", "Clean Code"],
+    funFact: "Everything you need, nothing you don't! ✨"
+};
+```
+
+- 🎓 Fresh graduate passionate about building innovative solutions
+- 📱 Specialized in **Mobile Application Development**
+- 🧠 Love tackling **Algorithmic Challenges** and **Competitive Programming**
+- 🌱 Currently mastering **Advanced Android Development** and **System Design**
+- 💡 Always eager to learn new technologies and best practices
+
+---
+
+## 🛠️ Tech Stack
+
 <div align="center">
-  <i>"EVERYTHING YOU NEED
-	NOTHING YOU DON'T"</i>
+
+### 💻 Programming Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 📱 Mobile Development
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+
+### 🛠️ Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=mohamedibrahim3&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6" alt="GitHub Stats" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedibrahim3&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6" alt="Top Languages" height="180"/>
+
+</div>
+
+<div align="center">
+  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedibrahim3&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedibrahim3&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF" alt="Contribution Graph"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+<img src="https://github-profile-trophy.vercel.app/?username=mohamedibrahim3&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+## 💼 What I'm Working On
+
+```kotlin
+fun currentProjects() {
+    val goals = listOf(
+        "🔨 Building scalable Android applications",
+        "📚 Learning advanced Kotlin techniques",
+        "🎯 Solving algorithmic problems daily",
+        "🤝 Contributing to open-source projects",
+        "🌟 Improving software engineering skills"
+    )
+    goals.forEach { println(it) }
+}
+```
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+I'm always interested in collaborating on innovative projects and discussing new technologies!
+
+**Feel free to reach out:**
+
+[![Email](https://img.shields.io/badge/Email-itsmohamedabdelalim@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itsmohamedabdelalim@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedibrahimabdelalim/)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💭 Quote of the Day
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohamedibrahim3/mohamedibrahim3/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohamedibrahim3/mohamedibrahim3/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mohamedibrahim3/mohamedibrahim3/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+<i>✨ "Everything you need, nothing you don't" ✨</i>
+
+**Made with ❤️ by Mohamed Ibrahim**
+
 </div>
