@@ -94,11 +94,15 @@ const Mohamed = {
 
 ---
 
-## 🏆 GitHub Trophies
+## 🐍 Contribution Snake Game
 
 <div align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/?username=mohamedibrahim3&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohamedibrahim3/mohamedibrahim3/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohamedibrahim3/mohamedibrahim3/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mohamedibrahim3/mohamedibrahim3/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
