@@ -2,7 +2,7 @@
 
 # Mohamed Ibrahim Abdelalim
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Android+Developer+%F0%9F%9A%80;Kotlin+Multiplatform+Expert+%E2%9A%A1;Clean+Architecture+Advocate+%F0%9F%8F%97%EF%B8%8F" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=800&height=60&lines=Android+Developer+%F0%9F%9A%80" alt="Typing Animation" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cairo,_Egypt-FF6B6B?style=flat-square&logo=google-maps&logoColor=white" alt="Location"/>
