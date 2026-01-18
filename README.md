@@ -3,28 +3,6 @@
 # Mohamed Ibrahim Abdelalim
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=800&height=60&lines=Android+Developer+%F0%9F%9A%80" alt="Typing Animation" />
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Cairo,_Egypt-FF6B6B?style=flat-square&logo=google-maps&logoColor=white" alt="Location"/>
-  <img src="https://img.shields.io/badge/Suez_Canal_University-00D9FF?style=flat-square&logo=google-scholar&logoColor=white" alt="University"/>
-  <img src="https://img.shields.io/badge/Grade-84%25_(Honors)-4CAF50?style=flat-square&logo=academia&logoColor=white" alt="Grade"/>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohamedibrahimabdelalim">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:itsmohamedabdelalim@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email"/>
-  </a>
-  <a href="https://github.com/mohamedibrahim3">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
-  </a>
-  <a href="tel:+201278720951">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" alt="Phone"/>
-  </a>
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&animation=twinkling" width="100%"/>
 
 </div>
