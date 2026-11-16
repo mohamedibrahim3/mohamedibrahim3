@@ -1,242 +1,307 @@
+<!-- ==================== HEADER ==================== -->
 <div align="center">
 
-# Mohamed Ibrahim Abdelalim
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:7F52FF&height=220&section=header&text=Mohamed%20Ibrahim%20Abdelalim&fontSize=44&fontColor=FFFFFF&fontAlignY=36&desc=Android%20Developer%20%E2%80%A2%20Kotlin%20Multiplatform%20Engineer&descSize=18&descAlignY=56&animation=fadeIn" width="100%" alt="Header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=800&height=60&lines=Android+Developer+%F0%9F%9A%80" alt="Typing Animation" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&animation=twinkling" width="100%"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=700&height=50&lines=Native+Android+%7C+Jetpack+Compose+%F0%9F%93%B1;Kotlin+Multiplatform+(KMP)+%F0%9F%8C%8D;Clean+Architecture+%26+SOLID+%F0%9F%8F%97%EF%B8%8F;Building+fast%2C+offline-first+apps+%E2%9A%A1" alt="Typing SVG"/>
+</a>
+
+<p>
+  <a href="https://www.linkedin.com/in/mohamedibrahimabdelalim"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:itsmohamedabdelalim@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/Location-Cairo%2C%20Egypt-00D9FF?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
+  <img src="https://img.shields.io/badge/Open%20to-Collaborations-2EA043?style=flat-square&logo=handshake&logoColor=white" alt="Open to work"/>
+  <img src="https://komarev.com/ghpvc/?username=mohamedibrahim3&label=Profile%20Views&color=7F52FF&style=flat-square" alt="Profile views"/>
+</p>
 
 </div>
 
-## 🎯 Professional Summary
+---
+
+<!-- ==================== ABOUT ==================== -->
+## 👨‍💻 About Me
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+I'm an **Android Developer** focused on building **high-performance, scalable and maintainable** mobile apps with **Kotlin**, **Jetpack Compose** and **Kotlin Multiplatform**.
+
+- 🔭 Currently building enterprise systems at **Executive Agency for Sinai Reconstruction**
+- 🌍 Sharing **70%+ business logic** across platforms with **KMP**
+- 📴 Passionate about **offline-first** apps that never let field users down
+- 🧠 **650+** problems solved on LeetCode & Codeforces — **3× ECPC** qualifier
+- ⚡ Philosophy: *smart, efficient work over sheer effort*
+
+</td>
+<td width="45%" valign="top">
 
 ```kotlin
-val developer = AndroidDeveloper(
-    name = "Mohamed Ibrahim Abdelalim",
-    location = "Cairo, Egypt 🇪🇬",
-    expertise = listOf(
-        "Native Android Development",
-        "Kotlin Multiplatform (KMP)",
-        "Jetpack Compose & Material Design 3",
-        "Clean Architecture & SOLID Principles"
+data class Developer(
+    val name: String = "Mohamed Ibrahim",
+    val role: String = "Android Developer",
+    val location: String = "Cairo, Egypt 🇪🇬",
+    val stack: List<String> = listOf(
+        "Kotlin", "Jetpack Compose",
+        "KMP", "Ktor", "Room"
     ),
-    philosophy = "Smart, efficient work over sheer effort",
-    focus = listOf("High Performance", "Scalability", "Maintainability"),
-    currentRole = "Android Developer @ Executive Agency for Sinai Reconstruction"
+    val architecture: List<String> = listOf(
+        "Clean Architecture",
+        "MVVM", "MVI", "SOLID"
+    ),
+    val focus: List<String> = listOf(
+        "Performance",
+        "Scalability",
+        "Maintainability"
+    )
 )
 ```
 
-<div align="center">
-
-### 🏆 Key Achievements
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/rocket.png" width="50"/><br/>
-<b>3 Enterprise Systems</b><br/>
-<sub>Tracking, HRMS & Warehouse</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/speed.png" width="50"/><br/>
-<b>40% Performance Boost</b><br/>
-<sub>Data sync optimization</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/code.png" width="50"/><br/>
-<b>70% Code Sharing</b><br/>
-<sub>Via Kotlin Multiplatform</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/download.png" width="50"/><br/>
-<b>65% Size Reduction</b><br/>
-<sub>App optimization</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/test-passed.png" width="50"/><br/>
-<b>80%+ Test Coverage</b><br/>
-<sub>Zero bugs delivered</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/problem-solving.png" width="50"/><br/>
-<b>650+ Problems Solved</b><br/>
-<sub>LeetCode & Codeforces</sub>
 </td>
 </tr>
 </table>
 
 ---
 
-## 💼 Professional Experience
-
-### 🔷 Android Developer
-**Executive Agency for Sinai Reconstruction** • *Jul 2025 – Present*
-
-- 🚀 Delivered **3 enterprise systems** (Tracking, HRMS, Warehouse) using **KMP & Ktor**
-- 📊 Developed mobile/desktop tracking system for **33+ national projects** with real-time Jetpack Compose dashboards
-- ⚡ Improved data sync by **40%** using Coroutines and Room
-- 📦 Automated inventory & HR workflows with **70%+ shared business logic** via Kotlin Multiplatform
-- 🔒 Ensured **100% offline reliability** for field operations
-
-### 🔶 Android Developer Trainee
-**The Chance (Remote)** • *Apr 2025 – Nov 2025*
-
-- 📱 Contributed to **4+ projects** (3 native Android, 1 KMP multi-platform)
-- ✅ Delivered **10+ features** with **80%+ test coverage** and **zero bugs**
-- 📉 Reduced app size by **65%** and streamlined image loading by **95%**
-- 🔋 Boosted performance and battery efficiency significantly
-
----
-
-## 🛠️ Technical Arsenal
+<!-- ==================== ACHIEVEMENTS ==================== -->
+## 🏆 Highlights
 
 <div align="center">
 
-### Languages & Frameworks
-
-<p>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-</p>
-
-### Android Development
-
-<p>
-<img src="https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android SDK"/>
-<img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/>
-<img src="https://img.shields.io/badge/Material_Design_3-757575?style=for-the-badge&logo=material-design&logoColor=white" alt="Material Design"/>
-<img src="https://img.shields.io/badge/KMP-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="KMP"/>
-</p>
-
-### Architecture & Patterns
-
-<p>
-<img src="https://img.shields.io/badge/MVVM-FF6B6B?style=for-the-badge&logo=architectural&logoColor=white" alt="MVVM"/>
-<img src="https://img.shields.io/badge/MVI-4ECDC4?style=for-the-badge&logo=architectural&logoColor=white" alt="MVI"/>
-<img src="https://img.shields.io/badge/Clean_Architecture-95E1D3?style=for-the-badge&logo=architectural&logoColor=black" alt="Clean Architecture"/>
-<img src="https://img.shields.io/badge/SOLID-F38181?style=for-the-badge&logo=architectural&logoColor=white" alt="SOLID"/>
-</p>
-
-### Tools & Libraries
-
-<p>
-<img src="https://img.shields.io/badge/Dagger_Hilt-2196F3?style=for-the-badge&logo=android&logoColor=white" alt="Hilt"/>
-<img src="https://img.shields.io/badge/Koin-FF9800?style=for-the-badge&logo=kotlin&logoColor=white" alt="Koin"/>
-<img src="https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge&logo=square&logoColor=white" alt="Retrofit"/>
-<img src="https://img.shields.io/badge/Ktor-087CFA?style=for-the-badge&logo=ktor&logoColor=white" alt="Ktor"/>
-<img src="https://img.shields.io/badge/Room-4CAF50?style=for-the-badge&logo=android&logoColor=white" alt="Room"/>
-</p>
-
-### Testing & Quality
-
-<p>
-<img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit"/>
-<img src="https://img.shields.io/badge/MockK-FF6B6B?style=for-the-badge&logo=kotlin&logoColor=white" alt="MockK"/>
-<img src="https://img.shields.io/badge/Turbine-00D9FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Turbine"/>
-<img src="https://img.shields.io/badge/TDD-4CAF50?style=for-the-badge&logo=checkmarx&logoColor=white" alt="TDD"/>
-</p>
-
-### Developer Tools
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-</p>
+<table>
+<tr>
+<td align="center" width="200">
+<img src="https://img.icons8.com/fluency/96/rocket.png" width="44" alt=""/><br/>
+<h3>3</h3>
+<sub>Enterprise Systems<br/>Tracking · HRMS · Warehouse</sub>
+</td>
+<td align="center" width="200">
+<img src="https://img.icons8.com/fluency/96/speed.png" width="44" alt=""/><br/>
+<h3>40%</h3>
+<sub>Faster Data Sync<br/>Coroutines + Room</sub>
+</td>
+<td align="center" width="200">
+<img src="https://img.icons8.com/fluency/96/code.png" width="44" alt=""/><br/>
+<h3>70%+</h3>
+<sub>Shared Code<br/>via Kotlin Multiplatform</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="200">
+<img src="https://img.icons8.com/fluency/96/download.png" width="44" alt=""/><br/>
+<h3>65%</h3>
+<sub>App Size Reduction<br/>Build & asset optimization</sub>
+</td>
+<td align="center" width="200">
+<img src="https://img.icons8.com/fluency/96/test-passed.png" width="44" alt=""/><br/>
+<h3>80%+</h3>
+<sub>Test Coverage<br/>JUnit · MockK · Turbine</sub>
+</td>
+<td align="center" width="200">
+<img src="https://img.icons8.com/fluency/96/problem-solving.png" width="44" alt=""/><br/>
+<h3>650+</h3>
+<sub>Problems Solved<br/>LeetCode · Codeforces</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
+<!-- ==================== EXPERIENCE ==================== -->
+## 💼 Experience
+
+<details open>
+<summary><b>🔷 Android Developer — Executive Agency for Sinai Reconstruction</b> &nbsp;·&nbsp; <i>Jul 2025 – Present</i></summary>
+<br/>
+
+- 🚀 Delivered **3 enterprise systems** (Tracking, HRMS, Warehouse) using **Kotlin Multiplatform & Ktor**
+- 📊 Built a mobile & desktop **tracking system for 33+ national projects** with real-time Jetpack Compose dashboards
+- ⚡ Improved **data sync speed by 40%** using Coroutines and Room
+- 📦 Automated inventory & HR workflows with **70%+ shared business logic** across platforms
+- 🔒 Ensured **100% offline reliability** for field operations
+
+<p>
+<img src="https://img.shields.io/badge/KMP-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ktor-087CFA?style=flat-square&logo=ktor&logoColor=white"/>
+<img src="https://img.shields.io/badge/Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white"/>
+<img src="https://img.shields.io/badge/Room-4CAF50?style=flat-square&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Coroutines-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+</p>
+</details>
+
+<details open>
+<summary><b>🔶 Android Developer Trainee — The Chance</b> (Remote) &nbsp;·&nbsp; <i>Apr 2025 – Nov 2025</i></summary>
+<br/>
+
+- 📱 Contributed to **4+ projects** (3 native Android, 1 Kotlin Multiplatform)
+- ✅ Shipped **10+ features** with **80%+ test coverage** and zero reported bugs
+- 📉 Reduced app size by **65%** and sped up image loading by **95%**
+- 🔋 Significantly improved runtime performance and battery efficiency
+
+<p>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hilt-2196F3?style=flat-square&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Retrofit-48B983?style=flat-square&logo=square&logoColor=white"/>
+<img src="https://img.shields.io/badge/MockK-FF6B6B?style=flat-square&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/TDD-2EA043?style=flat-square&logo=checkmarx&logoColor=white"/>
+</p>
+</details>
+
+---
+
+<!-- ==================== TECH STACK ==================== -->
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=kotlin,java,c,cpp,postgres,androidstudio,idea,vscode,git,github&perline=10" alt="Skill icons"/>
+
+<br/><br/>
+
+<table>
+<tr>
+<td><b>📱 Android</b></td>
+<td>
+<img src="https://img.shields.io/badge/Android_SDK-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white"/>
+<img src="https://img.shields.io/badge/Material_3-757575?style=flat-square&logo=materialdesign&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Compose_Multiplatform-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td><b>🏗️ Architecture</b></td>
+<td>
+<img src="https://img.shields.io/badge/Clean_Architecture-0D1117?style=flat-square&logo=databricks&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/MVVM-0D1117?style=flat-square&logo=android&logoColor=3DDC84"/>
+<img src="https://img.shields.io/badge/MVI-0D1117?style=flat-square&logo=android&logoColor=3DDC84"/>
+<img src="https://img.shields.io/badge/SOLID-0D1117?style=flat-square&logo=codefactor&logoColor=F38181"/>
+</td>
+</tr>
+<tr>
+<td><b>🔌 Libraries</b></td>
+<td>
+<img src="https://img.shields.io/badge/Dagger_Hilt-2196F3?style=flat-square&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Koin-FF9800?style=flat-square&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Retrofit-48B983?style=flat-square&logo=square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ktor-087CFA?style=flat-square&logo=ktor&logoColor=white"/>
+<img src="https://img.shields.io/badge/Room-4CAF50?style=flat-square&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Coroutines_&_Flow-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td><b>🧪 Testing</b></td>
+<td>
+<img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white"/>
+<img src="https://img.shields.io/badge/MockK-FF6B6B?style=flat-square&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Turbine-00D9FF?style=flat-square&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/TDD-2EA043?style=flat-square&logo=checkmarx&logoColor=white"/>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- ==================== PROJECTS ==================== -->
 ## 🚀 Featured Projects
 
 <div align="center">
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏥 MedFinder App
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamedibrahim3/MedFinder)
+### 🏥 MedFinder
+<sub>🎓 Graduation Project — <b>Excellent</b> grade</sub>
 
-**Graduation Project - Excellent Grade**
+Find the nearest pharmacies that have the medicine you need — in real time.
 
-Find nearest pharmacies with required medicines
-
-**Impact:** 100+ test users
-
-**Features:**
-- 📍 Google Maps API integration (95% accuracy)
-- 🏃 BMI & BMR calculators
+- 📍 Google Maps integration (95% location accuracy)
 - 🎯 Real-time pharmacy availability
+- 🏃 Built-in BMI & BMR calculators
+- 👥 Tested with **100+ users**
 
-**Tech:** Kotlin, Jetpack Compose, Google Maps API
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white"/>
+
+<br/>
+
+<a href="https://github.com/mohamedibrahim3/MedFinder"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 💪 Evolve Fit
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamedibrahim3/EvolveFit)
+<sub>🌍 Cross-Platform Fitness Tracker</sub>
 
-**Cross-Platform Fitness Tracker**
+A KMP-powered fitness companion for nutrition, hydration and progress tracking.
 
-KMP-powered fitness companion
-
-**Achievement:** 65% size reduction
-
-**Features:**
 - 🥗 Nutrition & water tracking
 - 📊 Weekly progress reports
 - 📈 Visual charts with deep linking
+- 📉 **65%** app size reduction
 
-**Tech:** KMP, Koin, Ktor, Compose Multiplatform
+<img src="https://img.shields.io/badge/KMP-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Compose_MP-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ktor-087CFA?style=flat-square&logo=ktor&logoColor=white"/>
+<img src="https://img.shields.io/badge/Koin-FF9800?style=flat-square&logo=kotlin&logoColor=white"/>
+
+<br/>
+
+<a href="https://github.com/mohamedibrahim3/EvolveFit"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🎬 Movio
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamedibrahim3/Movio)
+<sub>🧩 Modular Movie Discovery App</sub>
 
-**Modular Movie Discovery App**
+A multi-module movie app built on Clean Architecture.
 
-Clean architecture at its finest
-
-**Optimization:** 72% size reduction
-
-**Features:**
 - 🤖 ML-based Safe Image Viewer
-- ⚡ Performance: 100→10 threads
-- 🔗 Enhanced caching & deep links
+- ⚡ Thread usage cut from **100 → 10**
+- 🔗 Smart caching & deep links
+- 📉 **72%** app size reduction
 
-**Tech:** Kotlin, Compose, Room, Hilt, Retrofit
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hilt-2196F3?style=flat-square&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Room-4CAF50?style=flat-square&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Retrofit-48B983?style=flat-square&logo=square&logoColor=white"/>
+
+<br/>
+
+<a href="https://github.com/mohamedibrahim3/Movio"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ✅ Tudee
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamedibrahim3/Tudee-App)
+<sub>📴 Offline-First Task Manager</sub>
 
-**Personal Task Manager**
+A clean, personal productivity app that works anywhere — no connection needed.
 
-Offline-first productivity tool
-
-**Features:**
 - 📴 100% offline support
-- 🌓 Dark/light themes
-- 🌍 Bilingual UI (AR/EN)
+- 🌓 Dark & light themes
+- 🌍 Bilingual UI (Arabic / English)
 - 📱 Responsive Compose interface
 
-**Tech:** Kotlin, Jetpack Compose, Room, MVVM
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white"/>
+<img src="https://img.shields.io/badge/Room-4CAF50?style=flat-square&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/MVVM-0D1117?style=flat-square&logo=android&logoColor=3DDC84"/>
+
+<br/>
+
+<a href="https://github.com/mohamedibrahim3/Tudee-App"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
@@ -246,18 +311,8 @@ Offline-first productivity tool
 
 ---
 
-## 📊 GitHub Analytics
-
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedibrahim3&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true" width="100%" alt="Contribution Graph"/>
-
-</div>
-
----
-
-## 🎯 Problem Solving Excellence
+<!-- ==================== PROBLEM SOLVING ==================== -->
+## 🧠 Problem Solving
 
 <div align="center">
 
@@ -265,26 +320,19 @@ Offline-first productivity tool
 <tr>
 <td align="center" width="50%">
 
-### 💻 Competitive Programming
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
-
-**650+ Problems Solved**
-
-Strong algorithmic thinking and optimization skills
+### 650+ Problems Solved
+<sub>Strong algorithmic thinking & optimization skills</sub>
 
 </td>
 <td align="center" width="50%">
 
-### 🏆 Competitions
+<img src="https://img.shields.io/badge/ECPC-FFD700?style=for-the-badge&logo=codeforces&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/ECPC-FFD700?style=for-the-badge&logo=codeforces&logoColor=black" alt="ECPC"/>
-
-**3 ECPC Qualifications**
-*(2020, 2021, 2022)*
-
-Solved complex challenges under pressure
+### 3× ECPC Qualifier
+<sub>2020 · 2021 · 2022 — Egyptian Collegiate Programming Contest</sub>
 
 </td>
 </tr>
@@ -294,38 +342,43 @@ Solved complex challenges under pressure
 
 ---
 
-## 🎓 Education
+<!-- ==================== GITHUB STATS ==================== -->
+## 📊 GitHub Activity
 
 <div align="center">
+
+<img src="https://streak-stats.demolab.com?user=mohamedibrahim3&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=7F52FF&currStreakLabel=00D9FF" width="70%" alt="GitHub Streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedibrahim3&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=7F52FF&point=FFFFFF&area=true&area_color=7F52FF" width="100%" alt="Contribution Graph"/>
+
+</div>
+
+---
+
+<!-- ==================== EDUCATION & LANGUAGES ==================== -->
+## 🎓 Education & Languages
+
+<div align="center">
+
+<table>
+<tr>
+<td width="60%" valign="top">
 
 ### 🏛️ Suez Canal University
-**Faculty of Computers and Informatics**
+**B.Sc. in Computer Science** — Faculty of Computers & Informatics
+<br/><sub>Graduated July 2023</sub>
 
-<img src="https://img.shields.io/badge/Degree-B.Sc._Computer_Science-4CAF50?style=for-the-badge" alt="Degree"/>
-<img src="https://img.shields.io/badge/Grade-84%25_(Very_Good_with_Honors)-FFD700?style=for-the-badge" alt="Grade"/>
-<img src="https://img.shields.io/badge/Graduation_Project-Excellent-FF6B6B?style=for-the-badge" alt="Project"/>
+<img src="https://img.shields.io/badge/Grade-84%25%20Very%20Good%20with%20Honors-FFD700?style=flat-square"/>
+<img src="https://img.shields.io/badge/Graduation%20Project-Excellent-2EA043?style=flat-square"/>
 
-**Graduated:** July 2023
-
-</div>
-
----
-
-## 🌐 Languages
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-<img src="https://img.icons8.com/color/96/usa.png" width="48"/><br/>
-<b>English</b><br/>
-Full Professional Proficiency
 </td>
-<td align="center" width="50%">
-<img src="https://img.icons8.com/color/96/egypt.png" width="48"/><br/>
-<b>Arabic</b><br/>
-Native Speaker
+<td width="40%" valign="top">
+
+### 🌐 Languages
+🇬🇧 **English** — Full Professional
+<br/>
+🇪🇬 **Arabic** — Native
+
 </td>
 </tr>
 </table>
@@ -334,103 +387,67 @@ Native Speaker
 
 ---
 
-## 💡 Current Focus
+<!-- ==================== CURRENT FOCUS ==================== -->
+## 🎯 What I'm Focused On
 
 ```kotlin
-fun currentGoals2026() {
-    val objectives = mapOf(
-        "Technical" to listOf(
-            "Mastering advanced KMP architectures",
-            "Contributing to open-source Android projects",
-            "Exploring Compose Multiplatform for iOS/Desktop",
-            "Deep diving into performance optimization"
-        ),
-        "Professional" to listOf(
-            "Building scalable enterprise solutions",
-            "Mentoring junior developers",
-            "Speaking at tech conferences",
-            "Writing technical articles"
-        ),
-        "Personal" to listOf(
-            "Solving 1000+ algorithmic problems",
-            "Reading 24+ tech books per year",
-            "Contributing to Android community",
-            "Staying updated with latest Android trends"
-        )
+object CurrentFocus {
+    val learning = listOf(
+        "Advanced KMP architectures",
+        "Compose Multiplatform for iOS & Desktop",
+        "Deep Android performance optimization"
     )
-    
-    objectives.forEach { (category, goals) ->
-        println("📌 $category Goals:")
-        goals.forEach { println("   ✓ $it") }
-    }
+    val building = listOf(
+        "Scalable enterprise solutions",
+        "Open-source Android contributions"
+    )
+    val sharing = listOf(
+        "Mentoring junior developers",
+        "Writing technical articles",
+        "Speaking at tech events"
+    )
+    const val nextMilestone = "1000+ algorithmic problems solved 🎯"
 }
 ```
 
 ---
 
+<!-- ==================== CONTACT ==================== -->
 ## 📫 Let's Connect
 
 <div align="center">
 
-<img src="https://img.icons8.com/fluency/96/connection-sync.png" width="80"/>
-
-**Open for collaborations, freelance projects, and tech discussions!**
+**Open for collaborations, freelance projects and tech discussions — feel free to reach out!**
 
 <p>
-<a href="mailto:itsmohamedabdelalim@gmail.com">
-<img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email"/>
-</a>
-<a href="https://www.linkedin.com/in/mohamedibrahimabdelalim">
-<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/mohamedibrahim3">
-<img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
-</a>
-</p>
-
-<p>
-<a href="https://www.instagram.com/mohamedebnibrahim">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
-</a>
-<a href="https://www.facebook.com/MohamedIbrahim32">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" alt="Facebook"/>
-</a>
-<a href="tel:+201278720951">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" alt="WhatsApp"/>
-</a>
+<a href="mailto:itsmohamedabdelalim@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/mohamedibrahimabdelalim"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://wa.me/201278720951"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+<a href="https://github.com/mohamedibrahim3"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.instagram.com/mohamedebnibrahim"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://www.facebook.com/MohamedIbrahim32"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 </p>
 
 </div>
 
 ---
 
+<!-- ==================== SNAKE ==================== -->
 <div align="center">
-
-### 💭 Developer Wisdom
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 🐍 Contribution Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohamedibrahim3/mohamedibrahim3/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohamedibrahim3/mohamedibrahim3/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mohamedibrahim3/mohamedibrahim3/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/mohamedibrahim3/mohamedibrahim3/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
 
----
-
+<!-- ==================== FOOTER ==================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
+<sub>⚡ <i>"Smart work, efficient solutions, lasting impact."</i> ⚡</sub>
 
-### 🚀 *"Smart work, efficient solutions, lasting impact"*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,50:00D9FF,100:0D1117&height=120&section=footer" width="100%" alt="Footer"/>
+
 </div>
